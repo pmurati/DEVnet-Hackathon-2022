@@ -2,7 +2,7 @@
 
 This repo contains the Jupyter notebook for the analysis of a medical cost dataset in the context of DEVnets internal hackathon 2022.
 
-The data has to be downloaded manually with a kaggle account (see links in the notebook's description). Create a `data` folder at the root of this directory and save the data in it.
+The data has been downloaded manually with a kaggle account (see links in the notebook's description). It lies in the `data` folder at the root of this directory.
 
 To follow along, clone this repo and set up a virtual environment in the IDE of your choice. For example via
 
