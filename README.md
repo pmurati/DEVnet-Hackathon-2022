@@ -21,3 +21,5 @@ and pip install the requirements
 ```bash
 pip install -r requirements.txt
 ```
+
+>**NOTE:** This repository is meant to be read only. Please work on your local machine and do not try to push to this repository!
